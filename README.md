@@ -1,6 +1,6 @@
 # Hey, I'm Princess 👋 🛡️ ✈️
 
-**GRC Manager by Day | AI Builder by Night | Travel Content Creator by Choice**
+**Security Governance Risk and Compliance Manager by Day | AI Builder by Night | Travel Content Creator by Choice**
 
 I help organisations take risk-based decision and i also bridge the gap between rigid compliance frameworks and modern engineering reality. Currently, I'm obsessed with **Agentic GRC** using AI to automate the soul-crushing parts of governance so teams can build faster and safer and exploring how AI can accelerate GRC workflows..
 
