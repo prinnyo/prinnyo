@@ -1,7 +1,7 @@
 # Hey, I'm Princess 👋🛡️ and Currently exploring how AI can make us more productive
 
-* `GRC Manager by day, builder by night, part time travel content creator` — I use AI to automate the tedious parts of governance, risk, and compliance so I can focus on the work that actually matters
-* I'm passionate about making information security frameworks accessible and practical, not just PDF-shaped paperweights
+* `GRC Manager by day, builder by night, part time travel content creator` I help organisations take risk-based decisions and use AI to automate the tedious parts of governance, risk, and compliance, so they can focus on the work that actually matters
+* I'm passionate about making information security frameworks accessible and practical
 * Currently exploring how AI can accelerate GRC workflows 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Princess%20David--Okoro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princessdavidokoro/)
@@ -11,10 +11,9 @@
 
 ### what I'm currently focused on
 
-* building open-source GRC tooling — making compliance work less painful
-* AI-assisted framework mapping and cross-referencing (ISO 27001, NIST CSF, SOC 2, CIS, PCI DSS)
 * exploring agentic development workflows with Claude and Google Antigravity
 * creating content at the intersection of GRC, AI, and information security
+* open-source GRC tooling — making compliance work less painful
 * luxury travel content creation — finding five-star experiences at three-star prices ✈️
 
 ### my projects
@@ -40,6 +39,13 @@
 | [LinkedIn](https://www.linkedin.com/in/princessdavidokoro/) | GRC + AI content, framework mapping insights, and industry discussions |
 | [TikTok - @in_herspace](https://www.tiktok.com/@in_herspace) | Luxury travel simplified — five-star experiences without the price tag |
 
+@in_herspace — luxury travel simplified ✈️
+When I'm not wearing my infosec hat, I'm helping people experience luxury travel without the luxury price tag. My TikTok is all about:
+
+🏨 Hotel reviews and hidden gems — luxury stays at a fraction of the cost
+💰 Travel hacks — timing, booking strategies, and deal architecture
+🌍 Destination guides — real experiences, no fluff
+✨ Lifestyle content — because GRC professionals deserve nice things too
 ---
 
-*Built by a GRC professional who got tired of tab-switching between framework PDFs.*
+
