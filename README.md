@@ -1,6 +1,6 @@
 # Hey, I'm Princess 👋 🛡️ ✈️
 
-**Security Governance Risk and Compliance Manager by Day | AI Builder by Night | Travel Content Creator by Choice**
+**Security Governance Risk and Compliance (GRC) Manager by Day | AI Builder by Night | Travel Content Creator by Choice**
 
 I help organisations take risk-based decision and i also bridge the gap between rigid compliance frameworks and modern engineering reality. Currently, I'm obsessed with **Agentic GRC** using AI to automate the soul-crushing parts of governance so teams can build faster and safer and exploring how AI can accelerate GRC workflows..
 
@@ -42,10 +42,10 @@ I help organisations take risk-based decision and i also bridge the gap between 
 @in_herspace — luxury travel simplified ✈️
 When I'm not wearing my infosec hat, I'm helping people experience luxury travel without the luxury price tag. My TikTok is all about:
 
-* 🏨 Hotel reviews and hidden gems — luxury stays at a fraction of the cost
-* 💰 Travel hacks — timing, booking strategies, and deal architecture
-* 🌍 Destination guides — real experiences, no fluff
-* ✨ Lifestyle content — because GRC professionals deserve nice things too
+* 🏨 Hotel reviews and hidden gems: luxury stays at a fraction of the cost
+* 💰 Travel hacks: timing, booking strategies, and deal architecture
+* 🌍 Destination guides: real experiences, no fluff
+* ✨ Lifestyle content: because GRC professionals deserve nice things too
 
 ---
 
