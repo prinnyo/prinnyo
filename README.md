@@ -1,6 +1,6 @@
 # Hey, I'm Princess 👋🛡️ and Currently exploring how AI can make us more productive
 
-* `GRC Manager by day, builder by night` — I use AI to automate the tedious parts of governance, risk, and compliance so I can focus on the work that actually matters
+* `GRC Manager by day, builder by night, part time travel content creator` — I use AI to automate the tedious parts of governance, risk, and compliance so I can focus on the work that actually matters
 * I'm passionate about making information security frameworks accessible and practical, not just PDF-shaped paperweights
 * Currently exploring how AI can accelerate GRC workflows 
 
