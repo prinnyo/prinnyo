@@ -46,6 +46,7 @@ When I'm not wearing my infosec hat, I'm helping people experience luxury travel
 💰 Travel hacks — timing, booking strategies, and deal architecture
 🌍 Destination guides — real experiences, no fluff
 ✨ Lifestyle content — because GRC professionals deserve nice things too
+
 ---
 
 
