@@ -42,10 +42,10 @@
 @in_herspace — luxury travel simplified ✈️
 When I'm not wearing my infosec hat, I'm helping people experience luxury travel without the luxury price tag. My TikTok is all about:
 
-🏨 Hotel reviews and hidden gems — luxury stays at a fraction of the cost
-💰 Travel hacks — timing, booking strategies, and deal architecture
-🌍 Destination guides — real experiences, no fluff
-✨ Lifestyle content — because GRC professionals deserve nice things too
+* 🏨 Hotel reviews and hidden gems — luxury stays at a fraction of the cost
+* 💰 Travel hacks — timing, booking strategies, and deal architecture
+* 🌍 Destination guides — real experiences, no fluff
+* ✨ Lifestyle content — because GRC professionals deserve nice things too
 
 ---
 
