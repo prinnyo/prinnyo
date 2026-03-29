@@ -1,8 +1,8 @@
-# Hey, I'm Princess 👋🛡️ and Currently exploring how AI can make us more productive
+# Hey, I'm Princess 👋 🛡️ ✈️
 
-* `GRC Manager by day, builder by night, part time travel content creator` I help organisations take risk-based decisions and use AI to automate the tedious parts of governance, risk, and compliance, so they can focus on the work that actually matters
-* I'm passionate about making information security frameworks accessible and practical
-* Currently exploring how AI can accelerate GRC workflows 
+**GRC Manager by Day | AI Builder by Night | Travel Content Creator by Choice**
+
+I help organisations take risk-based decision and i also bridge the gap between rigid compliance frameworks and modern engineering reality. Currently, I'm obsessed with **Agentic GRC** using AI to automate the soul-crushing parts of governance so teams can build faster and safer and exploring how AI can accelerate GRC workflows..
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Princess%20David--Okoro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princessdavidokoro/)
 [![Website](https://img.shields.io/badge/GRC%20Tool-Live%20Demo-00d4aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prinnyo.github.io/grc-framework-mapping-tool)
@@ -11,10 +11,10 @@
 
 ### what I'm currently focused on
 
-* exploring agentic development workflows with Claude and Google Antigravity
+* **Agentic Compliance Workflows:** Exploring **Google Antigravity** and **Claude** to turn "Policy" into "Code" and "Audits" into "Automated Verifications."
 * creating content at the intersection of GRC, AI, and information security
-* open-source GRC tooling — making compliance work less painful
-* luxury travel content creation — finding five-star experiences at three-star prices ✈️
+* **Open-Source GRC:** Building the tooling I wish I had 5 years ago.
+* luxury travel content creation, finding five-star experiences at three-star prices ✈️
 
 ### my projects
 
