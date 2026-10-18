@@ -1,17 +1,21 @@
-# Hey, I'm Princess 👋 🛡️ ✈️
+# Hey, I'm Princess 👋 
 
-**Security Governance Risk and Compliance (GRC) Professional by Day | AI Builder by Night | Travel Content Creator by Choice**
+**Cybersecurity GRC Leader | AI Governance Practitioner | GRC Engineering Enthusiast**
 
-I help organisations take risk-based decision and i also bridge the gap between rigid compliance frameworks and modern engineering reality. Currently, I'm obsessed with **Agentic GRC** using AI to automate the soul-crushing parts of governance so teams can build faster and safer and exploring how AI can accelerate GRC workflows..
+I lead and transform security GRC operations, with a focus on practical risk management, AI security governance and making GRC more effective through technology.
+
+Outside my day-to-day leadership responsibilities, I build and experiment with tools that simplify GRC workflows, control mapping and assurance.
+
+I'm also the founder and author of The AI GRC Desk: https://aigrcdesk.com/, where I share practical insights on AI governance, risk management and GRC engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Princess%20David--Okoro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princessdavidokoro/)
 [![Website](https://img.shields.io/badge/GRC%20Tool-Live%20Demo-00d4aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prinnyo.github.io/grc-framework-mapping-tool)
 
 ---
 
-### what I'm currently focused on
+### What I'm exploring
 
-* **Agentic Compliance Workflows:** Exploring **Google Antigravity** and **Claude** to turn "Policy" into "Code" and "Audits" into "Automated Verifications."
+* AI-enabled GRC workflows, open-source governance tools, control automation and operational AI security governance.
 * creating content at the intersection of GRC, AI, and information security
 * **Open-Source GRC:** Building the tooling I wish I had 5 years ago.
 * luxury travel content creation, finding five-star experiences at three-star prices ✈️
